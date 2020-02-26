@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12d3d5ba26a683976845b356356043ec",
+    "revision": "f793787334cc2820f092db646b87a18b",
     "url": "/vo-creative-agency/index.html"
   },
   {
-    "revision": "5a3861db0be23efbfefd",
+    "revision": "447106bb2c67776d9dd0",
     "url": "/vo-creative-agency/static/css/main.e09594a4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vo-creative-agency/static/js/2.4fab3804.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a3861db0be23efbfefd",
-    "url": "/vo-creative-agency/static/js/main.1f636c54.chunk.js"
+    "revision": "447106bb2c67776d9dd0",
+    "url": "/vo-creative-agency/static/js/main.cac3ab4f.chunk.js"
   },
   {
     "revision": "79d16e278d6e0e335fa4",
