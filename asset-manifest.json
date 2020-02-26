@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vo-creative-agency/static/css/main.e09594a4.chunk.css",
-    "main.js": "/vo-creative-agency/static/js/main.627593d9.chunk.js",
-    "main.js.map": "/vo-creative-agency/static/js/main.627593d9.chunk.js.map",
+    "main.js": "/vo-creative-agency/static/js/main.1f636c54.chunk.js",
+    "main.js.map": "/vo-creative-agency/static/js/main.1f636c54.chunk.js.map",
     "runtime-main.js": "/vo-creative-agency/static/js/runtime-main.d47a83a5.js",
     "runtime-main.js.map": "/vo-creative-agency/static/js/runtime-main.d47a83a5.js.map",
     "static/js/2.4fab3804.chunk.js": "/vo-creative-agency/static/js/2.4fab3804.chunk.js",
     "static/js/2.4fab3804.chunk.js.map": "/vo-creative-agency/static/js/2.4fab3804.chunk.js.map",
     "index.html": "/vo-creative-agency/index.html",
-    "precache-manifest.1b1c6e76636b095ad1160c92913806eb.js": "/vo-creative-agency/precache-manifest.1b1c6e76636b095ad1160c92913806eb.js",
+    "precache-manifest.4e1fca94d04798b960de71220aa03a12.js": "/vo-creative-agency/precache-manifest.4e1fca94d04798b960de71220aa03a12.js",
     "service-worker.js": "/vo-creative-agency/service-worker.js",
     "static/css/main.e09594a4.chunk.css.map": "/vo-creative-agency/static/css/main.e09594a4.chunk.css.map",
     "static/js/2.4fab3804.chunk.js.LICENSE.txt": "/vo-creative-agency/static/js/2.4fab3804.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.d47a83a5.js",
     "static/js/2.4fab3804.chunk.js",
     "static/css/main.e09594a4.chunk.css",
-    "static/js/main.627593d9.chunk.js"
+    "static/js/main.1f636c54.chunk.js"
   ]
 }
