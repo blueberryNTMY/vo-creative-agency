@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vo-creative-agency/static/css/main.c1173615.chunk.css",
+    "main.js": "/vo-creative-agency/static/js/main.8f89041c.chunk.js",
+    "main.js.map": "/vo-creative-agency/static/js/main.8f89041c.chunk.js.map",
+    "runtime-main.js": "/vo-creative-agency/static/js/runtime-main.d47a83a5.js",
+    "runtime-main.js.map": "/vo-creative-agency/static/js/runtime-main.d47a83a5.js.map",
+    "static/js/2.5117cfee.chunk.js": "/vo-creative-agency/static/js/2.5117cfee.chunk.js",
+    "static/js/2.5117cfee.chunk.js.map": "/vo-creative-agency/static/js/2.5117cfee.chunk.js.map",
+    "index.html": "/vo-creative-agency/index.html",
+    "precache-manifest.505d83324ec829ee17eb3061a8c586d4.js": "/vo-creative-agency/precache-manifest.505d83324ec829ee17eb3061a8c586d4.js",
+    "service-worker.js": "/vo-creative-agency/service-worker.js",
+    "static/css/main.c1173615.chunk.css.map": "/vo-creative-agency/static/css/main.c1173615.chunk.css.map",
+    "static/js/2.5117cfee.chunk.js.LICENSE.txt": "/vo-creative-agency/static/js/2.5117cfee.chunk.js.LICENSE.txt",
+    "static/media/PostComments.scss": "/vo-creative-agency/static/media/comments.548d6017.svg",
+    "static/media/SiteHero.scss": "/vo-creative-agency/static/media/site-hero.acb509dd.jpg",
+    "static/media/SiteHero2.scss": "/vo-creative-agency/static/media/site-hero2.db44d046.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d47a83a5.js",
+    "static/js/2.5117cfee.chunk.js",
+    "static/css/main.c1173615.chunk.css",
+    "static/js/main.8f89041c.chunk.js"
+  ]
+}
